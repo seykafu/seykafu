@@ -8,6 +8,8 @@ Route,
 import Navbar from './components/Navbar';
 import Home from './contents/Home';
 import About from './contents/About';
+import Portfolio from './contents/Portfolio';
+
 
 function App() {
     
@@ -20,6 +22,9 @@ function App() {
             </Route>
             <Route path="/about">
                 <About />
+            </Route>
+            <Route path="/portfolio">
+                <Portfolio />
             </Route>
         </div>
     </Router>

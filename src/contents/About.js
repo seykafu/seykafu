@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import Widecard from '../components/Widecard';
+
 class About extends Component {
 render() {
 return (
@@ -10,6 +12,12 @@ return (
 <br></br>
 <p>I graduated from Waterloo and worked at a few cool companies for my co-ops! Throughout my journey, I've won hackathons, worked on side projects and began a hobby of writing!
 </p>
+&nbsp;
+<br />
+<br />
+<h1 className="subtopic">My Education</h1>
+<Widecard title="BSc Science and Business" where="UWaterloo" from="Sept 2016" to="Apr 2021"/>
+<Widecard title="Product Management Certificate" where="Product School" from="Sept 2018" to="Dec 2018"/>
 </div>
 )
 }
