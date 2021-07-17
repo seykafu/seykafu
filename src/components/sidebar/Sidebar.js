@@ -10,7 +10,7 @@ class Sidebar extends Component {
         return (
             <div className="sidebar">
                 <img src={logo} />
-                <h1><Link smooth to="/#start" className="h1_links">ZJX Fu</Link></h1>
+                <h1><Link smooth to="/#start" className="h1_links">Seykafu</Link></h1>
                 <p style={{color:'black',fontWeight:'bold'}} className="gmail"> kaseyfuwaterloo@gmail.com </p>
                 <ul className="sidebar-nav">
                     <li className="sidebar-nav-items"><Link smooth to="/#about" className="links">About</Link></li>
