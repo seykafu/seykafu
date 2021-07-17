@@ -29,6 +29,12 @@ import laptop1 from '../images/laptop1.jpg'
                     <a href="https://github.com/seykafu" rel="opener noreferrer" target="_blank">
                         VIEW PROJECTS   <GoProject/>
                     </a>
+                    <br />
+                    <br />
+                    <br />
+                    <a href="https://seykafu.medium.com" rel="opener noreferrer" target="_blank">
+                        VIEW WRITING   <GoProject/>
+                    </a>
                     </div>
                 </div>
                 {/* <div className={classes.image_container}>

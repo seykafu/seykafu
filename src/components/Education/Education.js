@@ -23,7 +23,7 @@ class Education extends Component {
                                                     <MdSchool />     
                                                 </div>
                                                 <div className={classes.label}>
-                                                <h2 >UWaterloo BSc. Science and Business  <span>2016-2021</span></h2>
+                                                <h2 >UWaterloo BSc Science and Business + Co-op<span> 2016-2021</span></h2>
                                                 <p>I hold an Honours degree from Waterloo, with a minor in Econ. I've been part of many orgs, including:</p>
                                                 <li>UW Health Services as a Volunteer, 2016-2017</li>
                                                 <li>WatSolve as a Lead Consultant, 2017-2018</li>
@@ -55,7 +55,7 @@ class Education extends Component {
                                                 {/*<div className={classes.timeline_entry_inner}><div  className={classes.timeline_icon_3||classes.color_none}></div></div> */}
                                             </article>
                                         </ScrollAnimation>
-
+                                        <br />
                                        <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible ={true}>
                                             <article className={classes.timeline_entry}>
                                                 <div className={classes.timeline_icon} >

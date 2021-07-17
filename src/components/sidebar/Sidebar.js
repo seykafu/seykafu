@@ -14,8 +14,8 @@ class Sidebar extends Component {
                 <p style={{color:'black',fontWeight:'bold'}} className="gmail"> kaseyfuwaterloo@gmail.com </p>
                 <ul className="sidebar-nav">
                     <li className="sidebar-nav-items"><Link smooth to="/#about" className="links">About</Link></li>
-                    <li className="sidebar-nav-items"><Link smooth to="/#education" className="links" >Education</Link></li>
-                    <li className="sidebar-nav-items"><Link smooth to="/#interest" className="links">Interest</Link></li>
+                    <li className="sidebar-nav-items"><Link smooth to="/#interest" className="links">Interests</Link></li>
+                    <li className="sidebar-nav-items"><Link smooth to="/#education" className="links" >Career</Link></li>
                     {/* <li className="sidebar-nav-items"><a href="http://www.bloggingpeek.com" target="_blank" rel="opener noreferrer" className="links"> Blog<FiExternalLink/></a></li> */}
                 </ul>
     
