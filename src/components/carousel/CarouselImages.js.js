@@ -19,7 +19,7 @@ import laptop1 from '../images/laptop1.jpg'
                     <img className={classes.image} src={Hello}  alt="myImage"/>
                     <div  className={classes.h1}>
                        <h1 >I'm Kasey</h1>
-                       <a href="https://drive.google.com/file/d/1lgw_8dOzq5foU16RIRJa9lUjxkYUcJjd/view?usp=sharings" rel="opener noreferrer" target="_blank">VIEW CV   <FaArrowCircleDown/></a>
+                       <a href="https://drive.google.com/file/d/1OzWV0kLMbCQ2GJ2qozMs766SyLPkVhoH/view?usp=sharing" rel="opener noreferrer" target="_blank">VIEW CV   <FaArrowCircleDown/></a>
                     </div>
                 </div>
                 <div className={classes.image_container} >
