@@ -26,7 +26,7 @@ import laptop1 from '../images/laptop1.jpg'
                     <img className={classes.image} src={Pencil} alt="myImage"/>
                     <div  className={classes.h2} > 
                     <h1> I love writing, reading, and building!</h1>
-                    <a href="https://github.com/seykafu" rel="opener noreferrer" target="_blank">
+                    <a href="https://seykafu.notion.site/Seykafu-a8fda5021a274d82af74341b9a4a9f2e" rel="opener noreferrer" target="_blank">
                         VIEW PROJECTS   <GoProject/>
                     </a>
                     <br />
