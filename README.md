@@ -6,7 +6,8 @@ I'm **Kasey** — I build and manage things that I think are cool, useful, or bo
 
 ## 🚀 Currently Building
 
-- 💸 **LumenlyAI** — a financial, AI-enabled super-assistant helping businesses save money  
+- 🎮 **Ravage** — a 2D storytelling & tactical RPG game inspired by Fire Emblem and Chrono Trigger
+- 🎮 **TrialError** - a travel blog for best 5 hidden eats, cafes, jog paths, and local legend spots
 - 🐈 **PenCat** — creating & printing children’s books with AI  
 - ✌️ **PM Hive** — Vancouver’s product management community
 
