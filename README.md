@@ -6,17 +6,17 @@ I'm **Kasey** — I build and manage things that I think are cool, useful, or bo
 
 ## 🚀 Currently Building
 
-- 🎮 **Ravage** — a 2D storytelling & tactical RPG game inspired by Fire Emblem and Chrono Trigger
-- 🎮 **TrialError** - a travel blog for best 5 hidden eats, cafes, jog paths, and local legend spots
-- 🐈 **PenCat** — creating & printing children’s books with AI  
+- 🎮 **Pencat Games** — My Game Publishing Studio, focusing on strong storytelling
+- ✈️ **TrialError** - a travel blog for best 5 hidden eats, cafes, jog paths, and local legend spots
+- 📱 **Sortie** - get all the useful content from social media like eats and experiences without the doomnscrolling
 - ✌️ **PM Hive** — Vancouver’s product management community
 
 ---
 
 ## ☕ Currently Sipping On
 
-- Flat whites (Nemesis-style) brewed at home  
-- 🧋 Macu Tea  
+- ☕ Flat whites brewed at home or at a local cafe
+- 🧋 HeyTea
 
 ---
 
